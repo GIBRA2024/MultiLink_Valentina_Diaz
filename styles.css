@@ -23,7 +23,7 @@ body {
 
 .profile-pic {
     width: auto;
-    height: 200px;
+    height: 150px;
     margin-bottom: 10px;
 }
 
@@ -67,7 +67,7 @@ p {
 }
 
 footer {
-    margin: 380px 0;
+    margin: 230px 0;
     text-align: center;
     padding: 5px;
     border-radius: 5px;
